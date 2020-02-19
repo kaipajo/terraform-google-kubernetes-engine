@@ -47,6 +47,7 @@ test/integration/gcloud/config.sh
 test/integration/tmp
 
 credentials.json
+account.json
 
 # File to populate env vars used by Docker test runs
 .envrc
