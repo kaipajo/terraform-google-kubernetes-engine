@@ -15,6 +15,7 @@
  */
 
 provider "google" {
+  credentials = "account.json"
   version = "~> 3.3.0"
 }
 

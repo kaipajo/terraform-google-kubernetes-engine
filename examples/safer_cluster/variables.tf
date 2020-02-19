@@ -17,15 +17,17 @@
 variable "project_id" {
   type        = string
   description = "The project ID to host the cluster in"
+  default     = "kubernetes-testing-267811"
 }
 
 variable "region" {
   type        = string
   description = "The region to host the cluster in"
-  default     = "us-central1"
+  default     = "europe-west1"
 }
 
 variable "compute_engine_service_account" {
   type        = string
   description = "Service account to associate to the nodes in the cluster"
+  default     = "676388742927-compute@developer.gserviceaccount.com"
 }

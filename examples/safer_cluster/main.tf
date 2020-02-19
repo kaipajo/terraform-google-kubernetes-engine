@@ -30,11 +30,13 @@ locals {
 }
 
 provider "google" {
-  version = "~> 3.3.0"
+  credentials = "account.json"
+  version     = "~> 3.3.0"
 }
 
 provider "google-beta" {
-  version = "~> 3.3.0"
+  credentials = "account.json"
+  version     = "~> 3.3.0"
 }
 
 module "gke" {

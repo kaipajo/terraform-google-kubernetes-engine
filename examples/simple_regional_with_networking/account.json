@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "kubernetes-testing-267811",
+  "private_key_id": "ac991c720d7b3ed214c51c583510223933a16451",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDDR1oAa4LPLnsh\nPS4yJNzftO3V3jWUG7IsU2wI9kG5CW1B3q+lkkwrvw2QRfetfnKVj5koYGDZhfU8\nIVZ4qqKv2jlFbT4S80kRE8K7eH9X3TjBTMCZnRwqxq+LAvO3xqPVhgMJjBjD0SXo\nrJ8DoS17wgRQ9GI5ZJIi/6MFam42ibDJW4aPNP8t0edqSl96rDfwQ3N9WaTexCsZ\n0c0l9CqD2ptUHVHchJp8DOAKJ6P9FKd19lhRn7T7aV1srWEVjr+TDJC0G67dz6/d\n0quI++OwFu5egOkraj65QQGpZrL0ZF6Al7biJTxav0rodtB1QyWjmNyYeswlituM\nbrMtuaIDAgMBAAECggEANzabafb7+1xnEBTeVOs7UD016fx0JbZXAFVt/HK0Tn8t\n1ywBec0NoGjaiupdhz5zY3pAkbv+ZkKL/j5m1qNYcGRBQTIMFQuYoy11J9CAIPW5\nsF3lLwnPBwE6bRGem12cwSis/ywPbH5cO5djNoGB/LX0xnbytsuKzj59d3CKTPzO\nB/7yuu6dhUyeOVhKozgpzwAOk1csxEql7S1llNq3O3xb8p8gPZQYaG4v0IwQnZ95\ndhkz1vYXBHm98GkxH/Ziw543b5xGzRHIb5xQ5jwrU1aIxR7MltL8pjq/HpKfwPCQ\nWbzi0hLLffKGzIOGJVS4278k5Dz1zVo3bZVhvJfXgQKBgQD9I+IrJOKVguSBHVhS\n1Glqqk1HAZEQX+MnZddbJ9etlePk/lyoLYjHGXwNk7IG0kAg5Zqe7+ALh98/Swc4\n5Ch3WkvcdSUciuEC7RsR/F07TS251FkBa1C4pfCXwoGd6kQiwBBlFCBTPG6peYQy\nDh99TPkcx4wtUs+7iyWVKaUIYwKBgQDFfB/u/lJoEPdacotDSE4PoGY5CUjeY0+6\ndL2XdORsfIRbHKcCbJUC7jQzN0TwnelYJmJ+m9RpugsCjcDFniI+sGGATWP03Vrb\nc5EMNbS2mG8TRuFzWMQfvdUiPKMRSawqeoXDtq0pNjclBlxFJLPjWfeiXsNuy+DU\nk1TJcC2h4QKBgGiXGO2GkfAAYvVN8J5YkS23K7K43P0NAUfX9kD9l0lrcvu8dQAv\nwCGzT+Q0MAxNdp2hAF/G8KUTAJSgJV3GN0oJDusJo8nFP+77lIG76bGE0+3B5PyH\nIJUKSvwJK5DZqElLXfrFdA2wHHD9ejdMSop08UCI2kwnuRjeBys4R63NAoGAb054\niTGarMDzSW1KBNAZ/0C+nOMYyQ9cfpER0u21WVgNGXVaxEkC67XqgftixeObA24P\nEaEu5bBQSE4xGrD4SDENo0z7S6X/cbT/ScxzYH8mC81lgKfFUsah/DwFBNdrTD3m\natrpWlMOXbXqB6aaJUguBLw4lpgeznGD1k19ysECgYBP+uw57ZB+rmBtvaQFn+MX\ngQ1fSMCmE1LlOZyB4bAcrzoK/T/WL6DoSOjDE+OMzLK2asATcQOjV1GzPkWq4vNA\nMmsx0QWkDGMClbelEv74lKK5+bGohiaeIWEeOoAozBsB8W4G2GePUGF8+H2SX5cK\nOxyxnTNej7IsOttAM1mfpg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "terraform@kubernetes-testing-267811.iam.gserviceaccount.com",
+  "client_id": "110343841201555703842",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/terraform%40kubernetes-testing-267811.iam.gserviceaccount.com"
+}

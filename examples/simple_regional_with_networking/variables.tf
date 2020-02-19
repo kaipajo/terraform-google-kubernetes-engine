@@ -16,6 +16,7 @@
 
 variable "project_id" {
   description = "The project ID to host the cluster in"
+  default     = "kubernetes-testing-267811"
 }
 
 variable "cluster_name" {
@@ -25,7 +26,7 @@ variable "cluster_name" {
 
 variable "region" {
   description = "The region to host the cluster in"
-  default     = "us-central1"
+  default     = "europe-west1"
 }
 
 variable "network" {
